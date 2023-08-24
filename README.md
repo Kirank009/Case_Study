@@ -21,8 +21,9 @@ To make the analysis more intuitive, I utilized various Excel chart types to vis
 # Dashboard
 A highlight of this project is the interactive Excel dashboard that I designed. This dashboard brings together the insights gained from pivot tables and charts into a user-friendly interface. It allows stakeholders to explore the data dynamically, filter information, and gain real-time insights into the company's profit and performance.
 
-#Conclusion
+# Conclusion
 Through this case study, I have successfully demonstrated how pivot tables, charts, and an interactive dashboard can be leveraged to analyze a company's profit and performance. The findings offer actionable insights that can guide strategic decisions and future planning.
 
 <img width="647" alt="Screenshot 2023-08-24 112833" src="https://github.com/Kirank009/Case_Study/assets/126448871/58651485-8920-4846-8568-3abef3821a97">
+
 <img width="647" alt="Screenshot 2023-08-24 112907" src="https://github.com/Kirank009/Case_Study/assets/126448871/b35a563c-2e98-47bf-9abe-d427d3e4b4c2">
