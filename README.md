@@ -8,6 +8,7 @@ XYZ Company's profit and performance are crucial indicators of its success in th
 I began by collecting and cleaning the relevant data, ensuring its accuracy and integrity. Next, I employed pivot tables to categorize and summarize the data effectively. The creation of pivot charts enhanced the visual representation of trends and patterns in the company's profit and performance over time.
 
 # Key Findings
+
 The analysis brought to light several key insights:
 
 **Profit Trends**: The pivot charts revealed trends in the company's profit over quarters and years, helping to identify periods of growth or decline.
