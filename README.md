@@ -9,7 +9,9 @@ I began by collecting and cleaning the relevant data, ensuring its accuracy and 
 
 # Key Findings
 The analysis brought to light several key insights:
+
 **Profit Trends**: The pivot charts revealed trends in the company's profit over quarters and years, helping to identify periods of growth or decline.
+
 **Performance Metrics**: Using pivot tables, I calculated performance metrics such as profit margin, return on investment, and more, providing a holistic view of the company's financial health.
 
 # Visualizations
